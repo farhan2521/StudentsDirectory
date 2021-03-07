@@ -1,0 +1,23 @@
+Index: app/src/main/java/com/example/studentsdirectory/StudentDetailsAdapter.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/studentsdirectory/StudentDetailsAdapter.java	(date 1615057344289)
++++ app/src/main/java/com/example/studentsdirectory/StudentDetailsAdapter.java	(date 1615057344289)
+@@ -1,7 +1,6 @@
+ package com.example.studentsdirectory;
+ 
+ import android.content.Context;
+-import android.util.Log;
+ import android.view.LayoutInflater;
+ import android.view.View;
+ import android.view.ViewGroup;
+@@ -17,7 +16,6 @@
+     ArrayList<String> mStudentName;
+     ArrayList<String> mDOB;
+     ArrayList<String> mDepartment;
+-
+     Context mContext;
+ 
+     public StudentDetailsAdapter(Context context, ArrayList<String> studentName, ArrayList<String> studentDOB, ArrayList<String> studentDepartment) {

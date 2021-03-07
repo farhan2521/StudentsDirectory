@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudentsDirectory</string>
+    <string name="add_new_student">Add new student</string>
+    <string name="entername">Enter Name</string>
+    <string name="enterdob">Enter Date of Birth</string>
+    <string name="enterdepartment">Enter Department</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="search_student">Search Student</string>
+</resources>
